@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: HendrikVrey.Sling
 PackageVersion: 1.1.0
@@ -39,4 +39,4 @@ Documentations:
 - DocumentLabel: The .http dialect
   DocumentUrl: https://github.com/HendrikVrey/Sling/blob/master/docs/http-dialect.md
 ManifestType: defaultLocale
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0
